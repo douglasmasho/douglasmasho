@@ -3,7 +3,7 @@
 ### Second year CS student👨🏿‍💻
 - Freelancer ⚡
 - I am currently working on a job search [website](https://lubintalentsolutions.com/)
-- I am currently learning TypeScript and Python
+- I am currently learning React Native
 - Gamer 🎮
 
 ---
