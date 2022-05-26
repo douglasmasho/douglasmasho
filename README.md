@@ -56,6 +56,21 @@
 &nbsp;
 
 ---
+<a href="https://github-readme-stats.vercel.app/api?username=douglasmasho&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasmasho&bg_color=70,0000ff,00ffff&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/douglasmasho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmasho&bg_color=120,0000ff,00ffff&title_color=fff&text_color=fff" />
+</a>
 
-[![Douglas' GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmasho)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+ 
+---
 
+## Github Streaks
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasmasho&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&bg_color=30,e96443,904e95&title_color=00ffff&text_color=00ffff" alt="douglasmasho" /></p>
