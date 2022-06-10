@@ -2,8 +2,8 @@
 
 ### Second year CS student👨🏿‍💻
 - Freelancer ⚡
-- I am currently working on a job search [website](https://lubintalentsolutions.com/)
-- I am currently learning React Native
+- I am currently studying for my exams📖📖📖
+- I am currently learning React Native and Flutter
 - Gamer 🎮
 
 ---
