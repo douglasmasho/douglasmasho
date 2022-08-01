@@ -1,9 +1,8 @@
 ## Hi, my name is [Douglas Mashonganyika](https://douglasmasho.ml)
 
 ### Second year CS student👨🏿‍💻
-- Freelancer ⚡
-- I am currently studying for my exams📖📖📖
-- I am currently learning React Native and Flutter
+- Freelancer (Dev</> & Design🖌️) 
+- Currently learning Flutter
 - Gamer 🎮
 
 ---
