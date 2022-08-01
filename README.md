@@ -8,16 +8,16 @@
 ---
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://douglasmasho.ml#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://douglasmasho.ml#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://douglasmasho.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://douglasmasho.com#gh-dark-mode-only)
 &nbsp;
 &nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/douglasmasho/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/douglasmasho/#gh-dark-mode-only)
 &nbsp;
 &nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/bytearc_/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/bytearc_/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/douglasmasho/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/douglasmasho/#gh-dark-mode-only)
 
 ---
 ## Languages, Technologies and Tools
