@@ -1,7 +1,6 @@
 ## Hi, my name is [Douglas Mashonganyika](https://douglasmasho.ml)
 
 ### Second year CS student👨🏿‍💻
-- Junior Developer 
 - Dev</> & Design🖌️
 - Currently working on a React and React Native Project
 - Gamer 🎮
