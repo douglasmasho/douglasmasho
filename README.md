@@ -55,9 +55,7 @@
 &nbsp;
 
 ---
-<a href="https://github-readme-stats.vercel.app/api?username=douglasmasho&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasmasho&bg_color=70,0000ff,00ffff&title_color=fff&text_color=fff" />
-</a>
+
 <a href="https://github.com/douglasmasho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmasho&bg_color=120,0000ff,00ffff&title_color=fff&text_color=fff" />
 </a>
