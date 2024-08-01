@@ -1,4 +1,4 @@
-## Hi, my name is [Douglas Mashonganyika](https://douglasmasho.ml)
+## Hi, my name is [Douglas Mashonganyika](https://douglasmasho.com)
 
 ### Third year CS student👨🏿‍💻
 - Dev</> & Design🖌️
