@@ -1,9 +1,10 @@
 ## Hi, my name is [Douglas Mashonganyika](https://douglasmasho.com)
 
-### Third year CS student👨🏿‍💻
+### Final year CS student👨🏿‍💻
 - Dev</> & Design🖌️
-- Currently working on a React and React Native Project
+- Currently working on a React Medical Diagnosis Application
 - Gamer 🎮
+- Looking for work
 
 ---
 
